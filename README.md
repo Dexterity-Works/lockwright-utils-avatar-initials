@@ -1,3 +1,6 @@
+> [!WARNING]
+> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
+
 # pear-apps-utils-avatar-initials
 
 A simple utility to generate initials for an avatar.
