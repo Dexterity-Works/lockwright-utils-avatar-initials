@@ -1,9 +1,10 @@
-> [!WARNING]
-> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
-
-# pear-apps-utils-avatar-initials
+# lockwright-utils-avatar-initials
 
 A simple utility to generate initials for an avatar.
+
+Site: [lockwright.dexterity.works](https://lockwright.dexterity.works)
+
+Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Tether Data or the Pears project.
 
 ## Table of Contents
 
@@ -24,13 +25,12 @@ A simple utility to generate initials for an avatar.
 
 ## Security Notice
 
-1. To ensure the security and integrity of your projects, please note that official PearPass packages are distributed exclusively through our GitHub organization.
-2. Any packages with similar names found on the npm registry or other third-party package managers are not affiliated with PearPass and should be strictly avoided. We recommend installing directly from this repository to ensure you are using the verified, open-source version.
+Imports stay `@tetherto/pear-apps-utils-avatar-initials`. That npm name is not this fork if you install it from the npm registry.
 
 ## Installation
 
 ```bash
-npm install git+https://github.com/tetherto/pear-apps-utils-avatar-initials.git
+npm install git+https://github.com/Dexterity-Works/lockwright-utils-avatar-initials.git
 ```
 
 ## Usage Examples
@@ -57,9 +57,9 @@ This package has no external dependencies, making it lightweight and easy to inc
 
 ## Related Projects
 
-- [@tetherto/pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile) - A mobile app for PearPass, a password manager
-- [@tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - A desktop app for PearPass, a password
-- [@tetherto/tether-dev-docs](https://github.com/tetherto/tether-dev-docs) - Documentations and guides for developers
+- [lockwright-app-mobile](https://github.com/Dexterity-Works/lockwright-app-mobile) - Lockwright for mobile
+- [lockwright-app-desktop](https://github.com/Dexterity-Works/lockwright-app-desktop) - Lockwright for desktop
+- [tether-dev-docs](https://github.com/Dexterity-Works/tether-dev-docs) - Documentations and guides for developers
 
 ## License
 
