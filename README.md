@@ -25,7 +25,7 @@ Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Teth
 
 ## Security Notice
 
-Imports stay `@tetherto/pear-apps-utils-avatar-initials`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-utils-avatar-initials`.
 
 ## Installation
 
@@ -36,7 +36,7 @@ npm install git+https://github.com/Dexterity-Works/lockwright-utils-avatar-initi
 ## Usage Examples
 
 ```javascript
-import { generateAvatarInitials } from '@tetherto/pear-apps-utils-avatar-initials';
+import { generateAvatarInitials } from 'lockwright-utils-avatar-initials';
 
 // Single name
 generateAvatarInitials('John'); // Returns 'JO'
